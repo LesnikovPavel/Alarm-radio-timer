@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm_clock", "Alarm_clock\Alarm_clock.csproj", "{827C3892-2E01-49CB-BDD5-F4D374DB43DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		1.0|Any CPU = 1.0|Any CPU
+		1.1|Any CPU = 1.1|Any CPU
+		1.2_rabotaet_ok|Any CPU = 1.2_rabotaet_ok|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.1.0|Any CPU.ActiveCfg = 1.0|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.1.0|Any CPU.Build.0 = 1.0|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.1.1|Any CPU.ActiveCfg = 1.1|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.1.1|Any CPU.Build.0 = 1.1|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.1.2_rabotaet_ok|Any CPU.ActiveCfg = 1.2_rabotaet_ok|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.1.2_rabotaet_ok|Any CPU.Build.0 = 1.2_rabotaet_ok|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827C3892-2E01-49CB-BDD5-F4D374DB43DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
