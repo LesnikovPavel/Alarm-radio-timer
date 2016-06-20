@@ -1,0 +1,11 @@
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\bin\Debug\Alarm_clock.exe.config
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\bin\Debug\Alarm_clock.exe
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\bin\Debug\Alarm_clock.pdb
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\bin\Debug\NAudio.dll
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\bin\Debug\NAudio.xml
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\Debug\Alarm_clock.Form1.resources
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\Debug\Alarm_clock.Properties.Resources.resources
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\Debug\Alarm_clock.csproj.GenerateResource.Cache
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\Debug\Alarm_clock.exe
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\Debug\Alarm_clock.pdb
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\Debug\Alarm_clock.csprojResolveAssemblyReference.cache

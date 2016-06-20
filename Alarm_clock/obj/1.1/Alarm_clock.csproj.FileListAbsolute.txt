@@ -1,0 +1,4 @@
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\bin\1.1\Alarm_clock.exe.config
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\1.1\Interop.WMPLib.dll
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\1.1\AxInterop.WMPLib.dll
+E:\УНИК\3 курс\2 сем\Балса\Курсач\Alarm_clock\Alarm_clock\obj\1.1\Alarm_clock.csproj.ResolveComReference.cache
